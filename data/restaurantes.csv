@@ -1,0 +1,61 @@
+nombre,zona,tipo,barrio,precio_promedio,calificacion,rango_precio,direccion
+Mesa Provenza,El Poblado,Fusión colombiana,Provenza,88000,4.7,$$$$,Carrera 35 # 8A-12 sector Provenza
+Manila Bowl,El Poblado,Saludable,Manila,42000,4.5,$$,Calle 12 # 43D-18 sector Manila
+Brasa del Río,El Poblado,Parrilla,Ciudad del Río,67000,4.4,$$$,Carrera 44 # 19A-100 sector Ciudad del Río
+Café Primavera,El Poblado,Café de especialidad,Provenza,32000,4.6,$$,Calle 8A # 36-35 sector Provenza
+Sazón Manila,El Poblado,Colombiana contemporánea,Manila,56000,4.3,$$$,Calle 13 # 43D-45 sector Manila
+Azotea 10,El Poblado,Coctelería y tapas,El Poblado,76000,4.5,$$$,Calle 10 # 34-20 sector El Poblado
+Verde Patio,El Poblado,Vegetariana,Astorga,39000,4.4,$$,Carrera 43B # 8-59 sector Astorga
+Nikkei 33,El Poblado,Japonesa / peruana,Provenza,94000,4.8,$$$$,Carrera 33 # 7-21 sector Provenza
+Tierra Arepa,Laureles-Estadio,Tradicional antioqueña,Laureles,26000,4.2,$,Avenida Jardín # 74-30 sector Laureles
+Laureles Pasta Club,Laureles-Estadio,Italiana,Laureles,51000,4.4,$$$,Carrera 76 # 39D-18 sector Laureles
+Barrio Burger,Laureles-Estadio,Hamburguesas,Laureles,38000,4.3,$$,Circular 4 # 70-22 sector Laureles
+Café Segundo Parque,Laureles-Estadio,Café de especialidad,Segundo Parque de Laureles,30000,4.5,$$,Circular 3 # 73-14 sector Segundo Parque
+Fogón Estadio,Laureles-Estadio,Parrilla,Estadio,44000,4.1,$$,Carrera 74 # 48-10 sector Estadio
+Taco Circular,Laureles-Estadio,Mexicana,Laureles,36000,4.2,$$,Circular 5 # 71-55 sector Laureles
+Comedor 70,Laureles-Estadio,Colombiana contemporánea,La 70,48000,4.0,$$,Carrera 70 # 44B-25 sector La 70
+Dumpling Laureles,Laureles-Estadio,Asiática,Laureles,46000,4.4,$$,Transversal 39B # 73-60 sector Laureles
+Centro Criollo,La Candelaria,Tradicional antioqueña,Centro,23000,4.0,$,Carrera 49 # 52-65 sector Centro
+Sopa y Tinto,La Candelaria,Corrientazo / casera,Centro,19000,3.9,$,Calle 53 # 47-40 sector Centro
+Terraza Junín,La Candelaria,Colombiana contemporánea,Junín,37000,4.1,$$,Carrera 49 # 50-21 sector Junín
+Mercado Bolívar,La Candelaria,Comida de mercado,Parque Bolívar,28000,4.0,$,Calle 54 # 49-30 sector Parque Bolívar
+Café Coltejer,La Candelaria,Café de especialidad,Centro,27000,4.2,$,Carrera 47 # 52-86 sector Centro
+Sabores Prado,La Candelaria,Fusión colombiana,Prado Centro,42000,4.3,$$,Carrera 50 # 60-10 sector Prado Centro
+Belén al Carbón,Belén,Parrilla,Belén Parque,43000,4.2,$$,Carrera 76 # 30A-16 sector Belén Parque
+La 80 Pizzería,Belén,Italiana,La Palma,35000,4.1,$$,Carrera 80 # 30-22 sector La Palma
+Cazuela Belén,Belén,Tradicional antioqueña,Rosales,25000,4.0,$,Calle 32 # 70-15 sector Rosales
+Wok Los Alpes,Belén,Asiática,Los Alpes,41000,4.3,$$,Calle 30A # 82A-26 sector Los Alpes
+Panela y Café,Belén,Café de especialidad,Fátima,24000,4.2,$,Carrera 65 # 30A-50 sector Fátima
+Comal Belén,Belén,Mexicana,Loma de los Bernal,39000,4.2,$$,Calle 8B # 84F-35 sector Loma de los Bernal
+Guayabal Grill,Guayabal,Parrilla,Guayabal,41000,4.0,$$,Carrera 52 # 9 Sur-30 sector Guayabal
+Industrial Lunch,Guayabal,Corrientazo / casera,Cristo Rey,21000,3.8,$,Calle 2 Sur # 52-80 sector Cristo Rey
+Aeroparque Café,Guayabal,Café y repostería,Campo Amor,26000,4.1,$,Carrera 65 # 5A-20 sector Campo Amor
+Sabor Caribe Guayabal,Guayabal,Caribeña,Santa Fe,33000,4.0,$$,Calle 14 # 52-45 sector Santa Fe
+Mercado Envigado,Envigado,Comida de mercado,Zona Centro Envigado,32000,4.2,$$,Carrera 43 # 38 Sur-35 sector Centro
+Otraparte Bistró,Envigado,Fusión colombiana,Otraparte,62000,4.5,$$$,Calle 27 Sur # 43A-61 sector Otraparte
+Envigado Ramen,Envigado,Japonesa,Jardines,48000,4.4,$$,Carrera 43A # 31 Sur-20 sector Jardines
+Pizza Viva Envigado,Envigado,Italiana,La Magnolia,39000,4.3,$$,Calle 36 Sur # 43-15 sector La Magnolia
+Vereda Veg,Envigado,Vegetariana,Zúñiga,44000,4.5,$$,Carrera 43A # 18 Sur-135 sector Zúñiga
+Aguacate Envigado,Envigado,Saludable,Mesa,37000,4.2,$$,Calle 37 Sur # 44A-25 sector Mesa
+Buenos Aires Arepas,Buenos Aires,Tradicional antioqueña,Buenos Aires,22000,4.1,$,Calle 49 # 31-42 sector Buenos Aires
+Tranvía Café,Buenos Aires,Café de especialidad,Miraflores,25000,4.3,$,Carrera 28 # 49-18 sector Miraflores
+Mil Sabores 9,Buenos Aires,Comida rápida local,Alejandro Echavarría,20000,3.9,$,Calle 45 # 36-20 sector Alejandro Echavarría
+La Ladera Cocina,Buenos Aires,Colombiana contemporánea,Bomboná,36000,4.2,$$,Calle 47 # 38-12 sector Bomboná
+Aranjuez Fonda,Aranjuez,Tradicional antioqueña,Aranjuez,24000,4.0,$,Carrera 50 # 92-18 sector Aranjuez
+Moravia Mercado,Aranjuez,Comida de mercado,Moravia,26000,4.1,$,Calle 82A # 52-20 sector Moravia
+Parque Norte Burger,Aranjuez,Hamburguesas,San Isidro,30000,4.0,$$,Carrera 53 # 76-115 sector San Isidro
+Robledo Parrilla,Robledo,Parrilla,Robledo,39000,4.1,$$,Calle 65 # 87-22 sector Robledo
+Pilarica Pizza,Robledo,Italiana,Pilarica,33000,4.0,$$,Carrera 75 # 73-44 sector Pilarica
+Café Facultad,Robledo,Café y repostería,Universidad Nacional,23000,4.2,$,Calle 59A # 63-20 sector Universidad Nacional
+San Javier Sazón,San Javier,Tradicional antioqueña,San Javier,23000,4.1,$,Calle 44 # 95-10 sector San Javier
+Comuna 13 Café,San Javier,Café de especialidad,Las Independencias,27000,4.4,$,Carrera 110 # 38-30 sector Las Independencias
+Escaleras Food Lab,San Javier,Fusión colombiana,Las Independencias,41000,4.5,$$,Calle 38 # 109-24 sector Escaleras Eléctricas
+La América Bowl,La América,Saludable,La América,34000,4.2,$$,Calle 44 # 84-12 sector La América
+Floresta Tacos,La América,Mexicana,La Floresta,35000,4.3,$$,Carrera 86 # 45-38 sector La Floresta
+Santa Mónica Café,La América,Café de especialidad,Santa Mónica,26000,4.1,$,Calle 35 # 90-40 sector Santa Mónica
+Manrique Asados,Manrique,Parrilla,Manrique Central,31000,4.0,$$,Carrera 45 # 78-16 sector Manrique Central
+Gardel Tango Bar,Manrique,Argentina,Gardeliana,46000,4.2,$$,Calle 71 # 45-12 sector Gardeliana
+Berlín Casero,Aranjuez,Corrientazo / casera,Berlín,20000,3.9,$,Carrera 49 # 93-50 sector Berlín
+Villa Hermosa Cocina,Villa Hermosa,Colombiana contemporánea,Villa Hermosa,34000,4.1,$$,Calle 65 # 39-18 sector Villa Hermosa
+Enciso Arepa Bar,Villa Hermosa,Tradicional antioqueña,Enciso,22000,4.0,$,Carrera 29 # 58-22 sector Enciso
+Bostón Café,La Candelaria,Café de especialidad,Boston,28000,4.2,$,Calle 57 # 38-40 sector Boston
