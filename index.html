@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Infografía gastronómica de Medellín</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar" id="top">
+      <div class="brand">Medellín en la Mesa</div>
+      <nav aria-label="Navegación principal">
+        <a href="#inicio">Inicio</a>
+        <a href="#panorama">Panorama</a>
+        <a href="#zonas">Zonas</a>
+        <a href="#tipos">Tipos de cocina</a>
+        <a href="#precio-calificacion">Precio vs calificación</a>
+        <a href="#explorador">Explorador</a>
+        <a href="#metodologia">Metodología</a>
+      </nav>
+    </header>
+
+    <main>
+      <section id="inicio" class="hero section">
+        <div>
+          <p class="eyebrow">Infografía interactiva</p>
+          <h1>Restaurantes en Medellín: zonas, sabores y valor percibido</h1>
+          <p>
+            Explora cómo se distribuye la oferta gastronómica por zonas, tipos de cocina y
+            relación entre precio promedio y calificación.
+          </p>
+        </div>
+        <div class="hero-kpis" id="kpi-grid"></div>
+      </section>
+
+      <section id="panorama" class="section">
+        <h2>Panorama gastronómico</h2>
+        <p class="section-copy">
+          Este panel resume la muestra de restaurantes y permite filtrar por zona, cocina, rango de precio y búsqueda libre.
+        </p>
+        <div class="filters" aria-label="Filtros interactivos">
+          <label>
+            Zona
+            <select id="zona-filter"><option value="">Todas</option></select>
+          </label>
+          <label>
+            Tipo de cocina
+            <select id="tipo-filter"><option value="">Todos</option></select>
+          </label>
+          <label>
+            Rango de precio
+            <select id="precio-filter"><option value="">Todos</option></select>
+          </label>
+          <label class="search-label">
+            Buscar por nombre o barrio
+            <input id="search-input" type="search" placeholder="Ej. Provenza, parrilla..." />
+          </label>
+          <button id="clear-filters" type="button">Limpiar filtros</button>
+        </div>
+      </section>
+
+      <section id="zonas" class="section">
+        <h2>Zonas con mayor oferta</h2>
+        <div class="chart-card">
+          <div id="zone-chart" class="chart"></div>
+        </div>
+      </section>
+
+      <section id="tipos" class="section">
+        <h2>Tipos de cocina más representados</h2>
+        <div class="chart-card">
+          <div id="type-chart" class="chart"></div>
+        </div>
+      </section>
+
+      <section id="precio-calificacion" class="section">
+        <h2>Precio promedio vs calificación</h2>
+        <div class="chart-card">
+          <div id="scatter-chart" class="chart"></div>
+        </div>
+      </section>
+
+      <section id="explorador" class="section">
+        <h2>Explorador de restaurantes</h2>
+        <p id="results-count" class="section-copy"></p>
+        <div id="no-results" class="empty-state" hidden>
+          No encontramos restaurantes con estos filtros. Intenta limpiar filtros o ampliar la búsqueda.
+        </div>
+        <div id="restaurant-cards" class="cards-grid"></div>
+      </section>
+
+      <section id="metodologia" class="section methodology">
+        <h2>Metodología</h2>
+        <ul>
+          <li>Dataset de ejemplo en CSV local, sin APIs externas.</li>
+          <li>Limpieza y tipado de columnas numéricas en el navegador con D3.</li>
+          <li>Visualizaciones reactivas a filtros con transiciones y tooltips.</li>
+        </ul>
+      </section>
+    </main>
+
+    <footer>
+      <a href="#top">Volver arriba</a>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="charts.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
